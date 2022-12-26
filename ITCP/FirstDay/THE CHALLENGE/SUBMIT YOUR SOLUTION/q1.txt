@@ -1,0 +1,24 @@
+Microsoft Windows [version 10.0.17763.1577]
+(c) 2018 Microsoft Corporation. Tous droits réservés.
+
+C:\Users\BASSEMA>mkdir ITC
+
+C:\Users\BASSEMA>CD ITC
+
+C:\Users\BASSEMA\ITC>mkdir tmp
+
+C:\Users\BASSEMA\ITC>cd tmp
+
+C:\Users\BASSEMA\ITC\tmp>touch Sharin_is_caring
+'touch' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\BASSEMA\ITC\tmp>cat sharing_is_caring
+'cat' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\BASSEMA\ITC\tmp>touch Sharing_Is_Caring
+'touch' n’est pas reconnu en tant que commande interne
+ou externe, un programme exécutable ou un fichier de commandes.
+
+C:\Users\BASSEMA\ITC\tmp>
